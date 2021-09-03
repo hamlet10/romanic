@@ -1,0 +1,16 @@
+L:\romanic\romanic\obj\Debug\net5.0\romanic.GeneratedMSBuildEditorConfig.editorconfig
+L:\romanic\romanic\obj\Debug\net5.0\romanic.AssemblyInfoInputs.cache
+L:\romanic\romanic\obj\Debug\net5.0\romanic.AssemblyInfo.cs
+L:\romanic\romanic\obj\Debug\net5.0\romanic.csproj.CoreCompileInputs.cache
+L:\romanic\romanic\bin\Debug\net5.0\romanic.exe
+L:\romanic\romanic\bin\Debug\net5.0\romanic.deps.json
+L:\romanic\romanic\bin\Debug\net5.0\romanic.runtimeconfig.json
+L:\romanic\romanic\bin\Debug\net5.0\romanic.runtimeconfig.dev.json
+L:\romanic\romanic\bin\Debug\net5.0\romanic.dll
+L:\romanic\romanic\bin\Debug\net5.0\ref\romanic.dll
+L:\romanic\romanic\bin\Debug\net5.0\romanic.pdb
+L:\romanic\romanic\obj\Debug\net5.0\romanic.csprojAssemblyReference.cache
+L:\romanic\romanic\obj\Debug\net5.0\romanic.dll
+L:\romanic\romanic\obj\Debug\net5.0\ref\romanic.dll
+L:\romanic\romanic\obj\Debug\net5.0\romanic.pdb
+L:\romanic\romanic\obj\Debug\net5.0\romanic.genruntimeconfig.cache
