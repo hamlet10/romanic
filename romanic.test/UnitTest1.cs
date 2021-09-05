@@ -24,5 +24,18 @@ namespace romanic.test
             string result = Program.NumberToArabic(4);
             Assert.That("IV", Is.EqualTo(result));
         }
+
+        [Test]
+        public void Test3()
+        {
+            Assert.That(() => Program.Input_Validator("hola"), Throws.Exception);
+        }
+
+        [Test]
+        public void Test4()
+        {
+            Assert.That(() => Program.Input_Validator(null), Throws.ArgumentNullException);
+        }
+
     }
 }

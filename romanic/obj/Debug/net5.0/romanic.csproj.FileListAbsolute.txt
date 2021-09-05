@@ -14,3 +14,19 @@ L:\romanic\romanic\obj\Debug\net5.0\romanic.dll
 L:\romanic\romanic\obj\Debug\net5.0\ref\romanic.dll
 L:\romanic\romanic\obj\Debug\net5.0\romanic.pdb
 L:\romanic\romanic\obj\Debug\net5.0\romanic.genruntimeconfig.cache
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.exe
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.deps.json
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.runtimeconfig.json
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.runtimeconfig.dev.json
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.dll
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\ref\romanic.dll
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\bin\Debug\net5.0\romanic.pdb
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.csproj.AssemblyReference.cache
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.AssemblyInfoInputs.cache
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.AssemblyInfo.cs
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.csproj.CoreCompileInputs.cache
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.dll
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\ref\romanic.dll
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.pdb
+E:\Intec\agosto_octubre 2021\Tendencias\Lab\romanic\romanic\obj\Debug\net5.0\romanic.genruntimeconfig.cache

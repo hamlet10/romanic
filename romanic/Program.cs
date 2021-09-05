@@ -26,7 +26,35 @@ namespace romanic
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int result;
+            string inputString;
+            Console.WriteLine("Introduzca numero del 1 al 3,999: ");
+            inputString = Console.ReadLine();
+            Input_Validator(inputString);
+
+        }
+
+        public static int Input_Validator(string inputString)
+        {
+            int result;
+
+            if (!string.IsNullOrEmpty(inputString))
+            {
+                try
+                {
+                    result = Int32.Parse(inputString);
+                }
+                catch (FormatException e)
+                {
+                    throw e;
+                }
+                return result;
+            }
+            else
+            {
+                ArgumentNullException e = new ArgumentNullException();
+                throw e;
+            };
         }
 
         public static string NumberToArabic(int number)
@@ -44,4 +72,5 @@ namespace romanic
         }
     }
 }
+
 
